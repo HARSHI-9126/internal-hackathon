@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Enabled Real-Time Digital Twin for Health Monitoring, Fault Prediction and Mission Reliability
 
 > **Smart India Hackathon (SIH) 2026 Project Submission**  
@@ -164,3 +165,8 @@ When demonstrating the project to Hackathon judges:
 
 ---
 *Built for Smart India Hackathon 2026*
+=======
+# internal-hackathon
+Make a Demo Project for the Internal SIH hackathon.
+Add the new feature according to you.
+>>>>>>> 37ff35946fdcaa7461b5414a614f70760e8efb74
